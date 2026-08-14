@@ -6,7 +6,7 @@ local BASE = 'https://raw.githubusercontent.com/geranditri11/TroubleMaker/refs/h
 
 local games = {
     [15308782509] = 'Soccer-Training.lua',
-    [115681808123944] = 'Throw-A-Coin.lua',
+    [81335362752013] = 'Throw-A-Coin.lua',
 }   
 
 local file = games[game.PlaceId]
